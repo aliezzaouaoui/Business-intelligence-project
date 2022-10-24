@@ -1,1 +1,1 @@
-# Busness-intelligence-project
+# Business-intelligence-project
